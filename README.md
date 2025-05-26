@@ -4,6 +4,8 @@ My first attempt at writing terraform code. Not really sure what I'm doing, but 
 
 ### ⚙️ Setup (macOS):
 
+1. Install tfenv (homebrew only supports fully open-source licenses, so we cannot `brew install terraform`)
+
 ```bash
 brew install tfenv
 ```
