@@ -51,3 +51,9 @@ terraform validate
 ```bash
 terraform plan
 ```
+
+5. Apply the changes:
+
+```bash
+terraform apply
+```
