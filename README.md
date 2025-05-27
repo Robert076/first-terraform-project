@@ -1,6 +1,6 @@
 # 🌎 first-terraform-project
 
-My first attempt at writing terraform code. Not really sure what I'm doing, but somehow it's working. It adds a budget on AWS. That's it.
+My first attempt at writing terraform code. It adds a budget on AWS. That's it.
 
 ### ⚙️ Setup (macOS):
 
